@@ -1,0 +1,3 @@
+[submodule "KFebT"]
+	path = KFebT
+	url = git@github.com:psenna/KF-EBT.git
